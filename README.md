@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulianaCapador
-- 👀 I’m interested in Software Developed, Data Science and Artificial Intelligence
+- 👀 I’m interested in Software Development, Data Science and Artificial Intelligence
 - 🌱 I’m currently learning PL/SQL, Python and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
